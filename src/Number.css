@@ -1,0 +1,10 @@
+.number {
+    border:1px solid rgb(95, 23, 23);
+    width: 150px;
+    position: relative;
+    left:50%;
+    transform:translate(-50%,0)
+}
+button:hover{
+    opacity:0.6;
+}
